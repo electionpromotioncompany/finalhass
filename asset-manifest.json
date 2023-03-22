@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finalhass/static/css/main.073c9b0a.css",
+    "main.js": "/finalhass/static/js/main.f112c03c.js",
+    "static/js/787.d6f39943.chunk.js": "/finalhass/static/js/787.d6f39943.chunk.js",
+    "static/media/logo.svg": "/finalhass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/finalhass/index.html",
+    "main.073c9b0a.css.map": "/finalhass/static/css/main.073c9b0a.css.map",
+    "main.f112c03c.js.map": "/finalhass/static/js/main.f112c03c.js.map",
+    "787.d6f39943.chunk.js.map": "/finalhass/static/js/787.d6f39943.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f112c03c.js"
+  ]
+}
